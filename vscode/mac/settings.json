@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 2,
+    "ruby.lint": {
+        "rubocop": true
+    },
+    // "editor.renderWhitespace": "boundary",
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    // "workbench.editor.showTabs": true,
+    "workbench.activityBar.visible": true,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "blink",
+    "explorer.openEditors.visible": 0,
+    "explorer.autoReveal": false
+}
