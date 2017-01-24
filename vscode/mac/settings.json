@@ -14,5 +14,7 @@
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "blink",
     "explorer.openEditors.visible": 0,
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code"
 }

@@ -25,11 +25,7 @@
     "command": "workbench.action.openEditorAtIndex3",
     "when": "editorTextFocus"
   },
-  { 
-    "key": ".",                     
-    "command": "^acceptSelectedSuggestion",
-    "when": "editorTextFocus && suggestWidgetVisible && suggestionSupportsAcceptOnKey && editorLangId == 'javascript'" 
-  },{
+  {
     "key": "ctrl+/",
     "command": "workbench.action.splitEditor",
     "when": "editorTextFocus"
