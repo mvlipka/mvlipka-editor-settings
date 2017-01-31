@@ -9,5 +9,11 @@
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "Fira Code"
+    "editor.fontFamily": "Fira Code",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.report": true
+    },
+    "window.showFullPath": true
 }
